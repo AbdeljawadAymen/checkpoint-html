@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+.ft {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    flex-wrap: wrap;
+    height: 150px;
+}
+
+.b {
+    color: rgb(224, 15, 78);
+    padding-right: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+nav {
+    background-color: rgb(134, 138, 138);
+    background-position: center;
+}
+
+main {
+    background-color: khaki;
+    background-position: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+p {
+    font-style: oblique;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder;
+    color: rgb(12, 12, 11);
+
+
+}
+
+.c {
+    background-position: center;
+    height: 380px;
+    width: 400px;
+    border-right-width: 40px;
+    padding-right: 400;
+    padding-left: 40px;
+    padding-top: -90;
+    padding-bottom: 30;
+    padding-top: -20;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+footer {
+    background-color: rgb(226, 230, 231);
+    margin-top: 5px;
+}
+
+footer {
+    margin-bottom: 10px;
+    background-color: rgb(117, 165, 209);
+}
+
+
+
+
+.box2 {
+    display: flex;
+    justify-content: space-around;
+    color: rgb(12, 8, 9);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+    margin-top: 5px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+}
+
+.e {
+    font-size: medium;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-style: oblique;
+}
+
+.f {
+    font-size: medium;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(36, 1, 1);
+    font-style: oblique;
+    margin-top: 20px;
+}
+
+#par {
+    width: 100%;
+    height: auto;
+}
+
+H1 {
+    color: rgb(240, 22, 185);
+    font-size: medium;
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 20px;
+}
+
+.box {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    height: 600px;
+    color: white;
+    margin-top: 20px;
+}
+
+.box1 {
+    display: flex;
+    flex-direction: column;
+}
+.box3{margin-top: 5px;
+    margin-bottom: -40px;
+    margin-left: 40px;
+    padding-bottom: 100px;
+}
